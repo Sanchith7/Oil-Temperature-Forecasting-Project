@@ -30,7 +30,7 @@ The project is based on the following assumptions:
     pip install -r requirements.txt
     ```
 
-3. Run the `main.py` script to train the model and make predictions:
+3. Run the `Oil_Temperature_Forecasting_Project.ipynb` script to train the model and make predictions:
     ```bash
     python main.py
     ```
