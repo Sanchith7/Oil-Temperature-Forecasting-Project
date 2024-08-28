@@ -32,7 +32,7 @@ The project is based on the following assumptions:
 
 3. Run the `Oil_Temperature_Forecasting_Project.ipynb` script to train the model and make predictions:
     ```bash
-    python main.py
+    python Oil_Temperature_Forecasting_Project.ipynb
     ```
 
 4. The script will output the model evaluation metrics and plot the predicted oil temperature for the next 24 hours.
