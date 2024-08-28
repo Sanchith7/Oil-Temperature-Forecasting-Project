@@ -51,5 +51,3 @@ These results demonstrate that the model provides highly accurate forecasts of o
 - **Exploration of Other Models**: Consider testing other models like LightGBM or CatBoost.
 - **Feature Engineering**: Additional features or time-series-specific transformations could enhance model accuracy.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
