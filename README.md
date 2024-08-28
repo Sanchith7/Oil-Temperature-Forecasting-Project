@@ -6,7 +6,7 @@ This project aims to forecast the oil temperature (OT) of electricity transforme
 ## Project Structure
 - `train.csv`: The training dataset containing historical data on oil temperature and related features.
 - `test.csv`: The test dataset for which predictions are to be made.
-- `main.py`: The main script containing the data preprocessing, feature engineering, model training, and evaluation code.
+- `Oil_Temperature_Forecasting_Project.ipynb`: The main script containing the data preprocessing, feature engineering, model training, and evaluation code.
 - `README.md`: This documentation file.
 - `requirements.txt`: A list of dependencies required to run the project.
 
